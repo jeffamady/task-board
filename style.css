@@ -88,6 +88,7 @@ input {
 	display: grid;
 	grid-template-rows: 20px repeat(5, 100px);
 	align-content: flex-start;
+	
 	grid-auto-rows: 100px;
 }
 
